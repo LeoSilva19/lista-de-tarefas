@@ -26,9 +26,8 @@ O projeto foi desenvolvido para praticar:
 
 Manipulação do DOM com JavaScript
 
-Veja o projeto aqui: https://leosilva19.github.io/lista-de-tarefas/
-
-
 Criação de componentes dinâmicos
 
 Lógica de marcação e exclusão de elementos na tela
+
+Veja o projeto aqui: https://leosilva19.github.io/lista-de-tarefas/
